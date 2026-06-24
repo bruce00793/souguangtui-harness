@@ -1,0 +1,6 @@
+# 忽略 Word 文档（保留 PDF）
+*.docx
+
+# 系统文件
+.DS_Store
+Thumbs.db
